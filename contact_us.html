@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="contact-form.css" rel="stylesheet">
+    <title>contact form</title>
+</head>
+
+<body>
+<div class="contact-body">
+
+    <div id="contact-form">
+    <h3 class="contact-h3">Contact us</h3>
+
+    <form id="contact-form-id" class="contact-form-class" method="post" action="contact-form-process.php">
+        
+        <div class="contact-form-group">
+            <label for="Name" class="contact-label">Your name</label>
+            <div class="contact-input-group">
+                <input type="text" id="Name" name="Name" class="contact-form-control" required>
+            </div>
+        </div>
+
+        <div class="contact-form-group">
+            <label for="Email" class="contact-label">Your email address</label>
+            <div class="contact-input-group">
+                <input type="email" id="Email" name="Email" class="contact-form-control" required>
+            </div>
+        </div>
+
+        <div class="contact-form-group">
+            <label for="Message" class="contact-label">Your message</label>
+            <div class="contact-input-group">
+                <textarea id="Message" name="Message" class="contact-form-control" rows="6" maxlength="3000" required></textarea>
+            </div>
+        </div>
+
+        <div class="contact-form-group">
+            <button type="submit" id="contact-button" class="contact-btn contact-btn-primary contact-btn-lg contact-btn-block">Send Message</button>
+        </div>
+    </form>
+    </div>
+
+</div>
+
+</body>
+</html>
