@@ -1,11 +1,11 @@
 <a href="https://yesiamkriti.github.io/RealEstate/Wizz-kid_KOC26_CipherSchool/property_web_html.html">RealEstate</a><br>
 Creating a real estate website involves several key components to ensure it effectively showcases properties and attracts potential buyers or renters. Here's a breakdown of what you'll need:
-<h1>AIM</h1>
-<b>User-friendly Interface:</b> Design your website to be intuitive and easy to navigate. Users should be able to search for properties quickly and efficiently.
+<h1>AIM to make </h1>
+<h2>User-friendly Interface:</h2> Design your website to be intuitive and easy to navigate. Users should be able to search for properties quickly and efficiently.
 
-<b>Property Listings:</b> Implement a robust property listing system where sellers or agents can upload details, including photos, descriptions, amenities, price, location, and contact information.
+<h2>Property Listings:</h2> Implement a robust property listing system where sellers or agents can upload details, including photos, descriptions, amenities, price, location, and contact information.
 
-<b>Search Functionality:</b> Include advanced search filters such as location, price range, property type, number of bedrooms/bathrooms, and amenities. This helps users find properties that meet their specific criteria.
+<h2>Search Functionality:</h2> Include advanced search filters such as location, price range, property type, number of bedrooms/bathrooms, and amenities. This helps users find properties that meet their specific criteria.
 
 Responsive Design: Ensure your website is optimized for mobile devices, as many users search for properties on smartphones and tablets.
 
